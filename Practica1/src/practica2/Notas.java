@@ -14,7 +14,7 @@ public class Notas {
     /** Nota de la unidad formativa 2 */
     private double uf2;
     /** Nota de la unidad formativa 3 */
-    private double uf4;
+    private double uf3;
     /** Acumulado de la nota 1 */
     private double acu1;
     /** Acumulado de la nota 2 */
