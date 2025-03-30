@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * Clase Notas para gestionar las calificaciones de un estudiante.
  * Permite ingresar, validar, calcular y mostrar las notas finales.
- * 
+ *  
  * @author jordi
  * @version 1.0
  */
